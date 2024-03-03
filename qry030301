@@ -1,0 +1,1 @@
+select * from garma.delta2401.sales limit 10
